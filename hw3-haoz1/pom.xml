@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f14.hw3</groupId>
 	<artifactId>hw3-haoz1</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 
 	<repositories>
 		<repository>
@@ -118,5 +118,6 @@
 	<scm>
 		<connection>scm:git:git@github.com:lelouchmatlab/hw3-haoz1.git</connection>
 		<developerConnection>scm:git:git@github.com:lelouchmatlab/hw3-haoz1.git</developerConnection>
-	</scm>
+	  <tag>HEAD</tag>
+  </scm>
 </project>
